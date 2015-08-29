@@ -7,7 +7,9 @@ body {
   text-decoration: line-through;
 }
 
-
+h1 {
+	font-size: 71px;
+}
 
 #img-responsive {
 	height: 300px;
